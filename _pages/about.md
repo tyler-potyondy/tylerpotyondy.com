@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at UC San Diego advised by 
-[Pat Pannuto](https://patpannuto.com). My 
+I am a PhD student at UC San Diego advised by
+[Pat Pannuto](https://patpannuto.com). My
 research involves building systems that are,
 by-default, secure and robust.
 
 I love working on low-level systems, and my
-research centers around operating systems. More 
+research centers around operating systems. More
 specifically, I am interested in how programming
 language and verification methods can be pragmatically
 applied to real systems, to solve real problems.
