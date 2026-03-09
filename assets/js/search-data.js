@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-our-paper-omniglot-won-an-osdi-best-paper-award",
           title: 'Our paper Omniglot won an OSDI best paper award!',
           description: "",
+          section: "News",},{id: "news-i-am-presenting-our-paper-rage-against-the-state-machine-at-asplos",
+          title: 'I am presenting our paper Rage against the State Machine at ASPLOS.',
+          description: "",
           section: "News",},{
         id: 'social-github',
         title: 'GitHub',
