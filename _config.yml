@@ -198,7 +198,6 @@ exclude:
   - _pages/teaching.md
   - _pages/mentoring.md
   - _pages/books.md
-  - _pages/cv.md
   - _pages/repositories.md
   - _books
   - _pages/blog.md
