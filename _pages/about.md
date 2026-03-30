@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Computer Science and Engineering <br> UC San Diego
+subtitle: PhD Student, Computer Science and Engineering <br> UC San Diego <br> tpotyondy@ucsd.edu
 
 profile:
   align: right
