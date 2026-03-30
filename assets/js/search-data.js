@@ -60,6 +60,13 @@ ninja.data = [{
           section: "Talks",handler: () => {
               window.location.href = "/talks/asplos2026/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%74%70%6F%74%79%6F%6E%64%79@%75%63%73%64.%65%64%75", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
