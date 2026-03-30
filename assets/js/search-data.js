@@ -16,13 +16,50 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "I generally try to share here my slides from public talks I&#39;ve given.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "news-our-paper-omniglot-won-an-osdi-best-paper-award",
           title: 'Our paper Omniglot won an OSDI best paper award!',
           description: "",
           section: "News",},{id: "news-i-am-presenting-our-paper-rage-against-the-state-machine-at-asplos",
           title: 'I am presenting our paper Rage against the State Machine at ASPLOS.',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "talks-thread-networking-and-tock",
+          title: 'Thread Networking and Tock',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/tockworld6/";
+            },},{id: "talks-openthread-in-tock",
+          title: 'OpenThread in Tock',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/tockworld7/";
+            },},{id: "talks-tabula-rasa-starting-safe-stays-safe",
+          title: 'Tabula Rasa: Starting Safe Stays Safe',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/spices2024/";
+            },},{id: "talks-type-enforced-peripheral-management",
+          title: 'Type Enforced Peripheral Management',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/ucsd-cns-review2025/";
+            },},{id: "talks-improving-driver-safety-with-typestates",
+          title: 'Improving Driver Safety with TypeStates',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/tockworld8/";
+            },},{id: "talks-rage-against-the-state-machine",
+          title: 'Rage Against the State Machine',
+          description: "",
+          section: "Talks",handler: () => {
+              window.location.href = "/talks/asplos2026/";
+            },},{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
