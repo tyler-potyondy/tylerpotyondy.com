@@ -144,6 +144,8 @@ newsletter:
 collections:
   books:
     output: true
+  talks:
+    output: true
   news:
     defaults:
       layout: post
